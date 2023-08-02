@@ -1,0 +1,5 @@
+h1 {
+    color: red
+}
+
+ñ entendi como faz essa parte de cima, na parte de mudança de cor
